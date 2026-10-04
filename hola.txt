@@ -6,3 +6,5 @@ Estando en estado staged, he añadido este trozo de código
 ---------------------------------------------------------------
 Nuevo trozo de codigo para trabajar con git diff.
 -------------------------------------------------------------
+Extra para git commit --ammend
+--------------------------------------------

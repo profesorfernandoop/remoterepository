@@ -4,3 +4,5 @@ Todo este texto es nuevo
 ----------------------------------------------------------------
 Estando en estado staged, he añadido este trozo de código
 ---------------------------------------------------------------
+Nuevo trozo de codigo para trabajar con git diff.
+-------------------------------------------------------------
